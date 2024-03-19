@@ -63,4 +63,3 @@ class Animal():
     
     def setGenero(self, genero):
         self._genero = genero
-    
